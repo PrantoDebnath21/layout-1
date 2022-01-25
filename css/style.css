@@ -1,0 +1,40 @@
+.header{
+	min-height: 50px;
+	background-color: darkcyan;
+}
+.wrapper{
+	overflow: hidden;
+}
+.contact{
+	min-height: 100px;
+	background-color: cyan;
+	width: 60%;
+	float: left;
+}
+.blog{
+	min-height: 100px;
+	background-color: gainsboro;
+	width: 40%;
+	float: right;
+}
+.container{
+	overflow: hidden;
+}
+.box{
+	min-height: 100px;
+	width: 33.3%;
+	float: left;
+}
+.aqua{
+	background-color: aqua;
+}
+.crimson{
+	background-color: crimson;
+}
+.darkgreen{
+	background-color: darkgreen;
+}
+.footer{
+	min-height: 50px;
+	background-color: gold;
+}
